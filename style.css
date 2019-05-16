@@ -19,12 +19,13 @@ nav {
     margin-bottom: 20px;
     text-align: center
 }
-section {
+#derecho {
     background: #ebebeb;
     text-align: center;
-    padding: 30px;
+    padding-top: 20px;
+    padding: 20px;
     margin-bottom: 20px;
-    width: 55%;
+    width: 50%;
     float: left
 }   
 
@@ -39,7 +40,7 @@ section {
     
 }
 #h1,h2,h3 {
-    color: #777;
+    color: #777;    
     background: #ebebeb;
     text-align: center;
     padding: 20px;
@@ -54,13 +55,15 @@ section {
     margin-bottom: 20px;
 }
 
-aside {
+#aside {
     background: #ebebeb;
     text-align: center;
     padding: 20px;
-    margin-bottom: 20px;
-    width: 45;
-    float: right
+    margin-left: 20px;
+    height: 272.667px;
+    width: 380px;
+    float: left
+
             
 }
 
